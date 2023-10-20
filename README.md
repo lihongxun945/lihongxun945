@@ -1,12 +1,12 @@
 ## 欢迎来到言川的github
-不定时在github上写博客和更新开源项目，目前主要方向是前端、AI/AIGC、工程化等.以下是菜单，请尽情向用。
+不定时在github上写博客和更新开源项目，目前主要方向是前端、AI/AIGC、工程化等。
 
 ## 我的博客
 博客全部在都这个仓库，通过Issue来写，[my-blog](https://github.com/lihongxun945/myblog)，比较重要的博客包括：
-- [Vue2.x源码解析](https://github.com/lihongxun945/myblog/labels/Vue2.x%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%E7%B3%BB%E5%88%97)
-- [webpack源码解析](https://github.com/lihongxun945/diving-into-webpack/blob/master/1-introduction.md)
-- [五子棋AI](https://github.com/lihongxun945/myblog/labels/%E4%BA%94%E5%AD%90%E6%A3%8BAI%E6%95%99%E7%A8%8B%E7%AC%AC%E4%BA%8C%E7%89%88)
-- [学习笔记](https://github.com/lihongxun945/myblog/labels/%E6%AF%8F%E5%91%A8%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
+- [Vue2.x源码解析](https://github.com/lihongxun945/myblog/labels/Vue2.x%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%E7%B3%BB%E5%88%97) 解读Vue2.x核心代码和实现原理
+- [webpack源码解析](https://github.com/lihongxun945/diving-into-webpack/blob/master/1-introduction.md) 通过源码和demo解析webpack的实现原理
+- [五子棋AI](https://github.com/lihongxun945/myblog/labels/%E4%BA%94%E5%AD%90%E6%A3%8BAI%E6%95%99%E7%A8%8B%E7%AC%AC%E4%BA%8C%E7%89%88) 基于极小化极大算法的五子棋AI教程，后续会更新一个AlphaZero原理的教程
+- [学习笔记](https://github.com/lihongxun945/myblog/labels/%E6%AF%8F%E5%91%A8%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0) 日常的一些笔记，题材不定
 
 ## 开源项目
 有一些是个人的开源项目，也有参与社区的开源项目。
