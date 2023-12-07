@@ -19,6 +19,6 @@
 - [juery-weui](https://github.com/lihongxun945/jquery-weui), [vum](https://github.com/vum-team/vum), jquery 和 vue版本的UI库，时间久远已不维护。
 
 和AI/AIGC相关的项目：
-- [gobang](https://github.com/lihongxun945/gobang), [minmax-gobang](https://github.com/lihongxun945/minmax-gobang)，基于极小化极大算法的五子棋AI，前者是老版本，后者是重构的新版本，建议直接看后面这个代码更整洁
+- [gobang](https://github.com/lihongxun945/gobang) 基于极小化极大算法的五子棋AI，纯浏览器环境运行，具有一定的棋力，可以作为棋类AI的入门代码学习
 - [alpha-zero-gobang](https://github.com/lihongxun945/alpha-zero-gobang) , 主要参考Alpha Zero原理，基于深度神经网络和强化学习的五子棋AI，基本功能已完成，还在调试中
 - [tensorflow-course](https://github.com/lihongxun945/tensorflow2-course)， [machine-learning-andrew-ng-coursera](https://github.com/lihongxun945/machine-learning-andrew-ng-coursera) 自学深度学习和tensorflow的一些代码
